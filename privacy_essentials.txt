@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 🔒 Privacy Essentials
+! Title: 🔒 Privacy Essentials (YT arreglo en vivo)
 ! Description: A curated list for advanced hardening. Minimize connections to third-party sites.
 ! Homepage: https://github.com/yokoffing/filterlists
 ! Expires: 4 day (update frequency)
